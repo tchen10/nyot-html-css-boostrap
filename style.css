@@ -5,8 +5,7 @@
 
 body {
     overflow-x: hidden;
-    /*font-family: 'Open Sans', sans-serif !important*/
-    font-family: 'Spicy Rice', cursive;
+    font-family: 'Open Sans', sans-serif !important
 }
 
 a {
@@ -15,8 +14,7 @@ a {
 }
 
 h1, h2, h4 {
-    /*font-family: 'PT Sans Narrow', Ariel, sans-serif;*/
-    font-family: 'Spicy Rice', cursive;
+    font-family: 'PT Sans Narrow', Ariel, sans-serif;
     text-transform: uppercase;
     font-weight: 500;
     padding-top: 10px;
